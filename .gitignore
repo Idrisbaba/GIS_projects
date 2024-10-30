@@ -1,4 +1,11 @@
 # Byte-compiled / optimized / DLL files
+.Rproj.user
+.Rhistory
+.RData
+_publish.R
+_book
+_bookdown_files
+rsconnect
 __pycache__/
 *.py[cod]
 *$py.class
